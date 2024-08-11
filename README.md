@@ -20,16 +20,16 @@ This project is a Node.js application that exposes a GraphQL API. It uses a stat
 ## Project Structure
 
 The project is organized as follows:
-
+```plaintext
 node-graphql-crud/
 │
 ├── db.js               # Static file acting as the data source
-├── schema.js             # GraphQL schema definitions
+├── schema.js           # GraphQL schema definitions
 ├── resolvers/          # Resolver method logics for handling GraphQL operations
 ├── index.js            # Entry point of the application
 ├── package.json        # Project dependencies and scripts
 └── README.md           # Project documentation
-
+```
 
 ### Key Files
 
