@@ -49,7 +49,7 @@ node-graphql-crud/
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/node-graphql-crud.git
+git clone https://github.com/Sandip-Rocks/node-graphql-crud.git
 cd node-graphql-crud
 npm install
 ```
